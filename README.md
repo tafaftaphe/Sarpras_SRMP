@@ -1,9 +1,10 @@
+[index.html.html](https://github.com/user-attachments/files/34189143/index.html.html)
 <!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SARPRAS - SRMP 1 Kabupaten Jepara </title>
+    <title>SARPRAS - Sekolah Rakyat Kemensos RI</title>
     
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
